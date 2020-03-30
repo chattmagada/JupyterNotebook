@@ -1,3 +1,2 @@
-name = "Chattman"
-print(name)
+jupyter-run
 
